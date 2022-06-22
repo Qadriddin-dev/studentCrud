@@ -11,7 +11,7 @@
     @endif
     <table class="table table-bordered">
         <tr>
-            <th>№</th>
+            <th>No</th>
             <th>Имя</th>
             <th>Предмет</th>
             <th>Оценка</th>
